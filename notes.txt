@@ -1,0 +1,3 @@
+Next version:
+    - Should I sort by efficacy and reupload?
+        - Is it sorted already?
